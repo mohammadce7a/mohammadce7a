@@ -39,9 +39,6 @@ To become a strong **Software Engineer** capable of designing, building, and sca
 
 I'm continuously working toward becoming an engineer who understands not only **how to write code**, but also **why systems are designed the way they are**.
 
-### 📌 Featured Projects
-
-Coming soon — currently building and refining projects that demonstrate my backend engineering skills.
 
 ### 📫 Connect With Me
 
